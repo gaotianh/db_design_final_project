@@ -13,7 +13,7 @@ One student could record his/her bachelor school related to the account.
 Users could also record or modify their activities happened during their education periods. 
 
 #### 4. Link to the latest data model as a single UML class diagram. 
-[UML_final.pdf]
+[UML_final.pdf](https://github.com/gaotianh/db_design_final_project/blob/master/CS3200_project_final/UML_final.pdf)
 
 #### 5. Description of user data model
 Users could represent students or workers who want to record their educations and activities. 
